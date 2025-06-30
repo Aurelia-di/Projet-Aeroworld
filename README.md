@@ -57,3 +57,4 @@ N/A
 # 💼 Portfolio
 
 Le portfolio présente les projets réalisés dans le cadre de la formation, mettant en avant les compétences en intelligence d'affaires et data analysis.
+lien ici : https://sites.google.com/view/aureliadeinfanti/accueil
